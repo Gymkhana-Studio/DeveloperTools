@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 1,
+  "url": "https://gymkhana-studio.blogspot.com",
+  "releaseNotes": [
+    "  - Fixed Jadx",
+    "  - Fixed Decompiler",
+    "  - Fixed Runnable",
+    "  - Fixed Dex Protcetor",
+    "  - Add Dex2Jar Convertor",
+    "  --- And More"
+  ]
+}
